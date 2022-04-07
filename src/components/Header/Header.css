@@ -5,8 +5,13 @@
     align-items: center;
     
 }
+.header-total img{
+    width: 140px;
+    height: 60px;
+    margin-left: 50px;
+}
 .header-total ul {
-    margin-left: 820px;
+    margin-left: 720px;
 }
 .header-total ul a{
     padding: 18px;

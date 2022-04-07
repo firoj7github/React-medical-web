@@ -130,7 +130,7 @@ margin-left: 3px;
 .part-3 h2{
     color: rgb(186, 238, 238);   
 }
-.part- h2{
+.part-4 h2{
     color: rgb(186, 238, 238);   
 }
 .part-1 p{
@@ -268,19 +268,19 @@ border-radius: 5px;
     text-align: center;
 }
 .blog-1 img{
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
     border-radius: 4px;
 }
 .blog-2 img{
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
     margin-top: 48px;
     border-radius: 4px;
 }
 .blog-3 img{
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
     border-radius: 4px;
 }
 
@@ -451,7 +451,7 @@ margin-right: 50px;
     font-weight: 500;
 }
 .footer-3 h3{
-    margin-left: 90px;
+    margin-left: 98px;
     font-weight: 500;
 }
 .footer-4 h3{
