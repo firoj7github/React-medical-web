@@ -1,0 +1,466 @@
+.home-header{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background: url(../../image/bac3.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+}
+.home-img img{
+    margin-left: 115px;
+    margin-top: 50px;
+}
+.home-title{
+    margin-top: 60px;
+    width: 600px;
+    margin-left: 40px;
+    
+}
+.home-title h1{
+    font-size: 45px;
+    color: rgb(222, 243, 243);
+    margin-left: 15px;
+}
+.home-title p{
+    color: rgb(194, 247, 247);
+    margin-bottom: 35px;
+text-align: left;
+   
+   
+}
+.home-title a{
+    text-decoration: none;
+    background-color: rgb(222, 243, 243) ;
+    padding: 10px;
+    border-radius: 4px;
+    
+   
+    
+}
+.part{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 62px;
+    width: 100%;
+    height: 200px;
+   
+}
+.part-1{
+  background-color: darkslategray;
+   
+}
+.line{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+.line-plus{
+    display: flex;
+    align-items: center;
+    margin-left: 152px;
+}
+.line-add{
+    display: flex;
+    align-items: center;
+    margin-left: 585px;
+}
+.state{
+    display: flex;
+    align-items: center;
+    margin-left: 566px;
+}
+.line-1{
+width: 70px;
+height: 2px;
+background-color: lightseagreen;
+border-radius: 2px;
+}
+.line-2{
+width: 40px;
+height: 2px;
+background-color: lightseagreen;
+border-radius: 2px;
+margin-left: 3px;
+}
+.line-3{
+width: 20px;
+height: 2px;
+background-color: lightseagreen;
+border-radius: 2px;
+margin-left: 3px;
+}
+.line-4{
+width: 10px;
+height: 2px;
+background-color: lightseagreen;
+border-radius: 2px;
+margin-left: 3px;
+}
+.line-5{
+width: 5px;
+height: 2px;
+background-color: lightseagreen;
+border-radius: 2px;
+margin-left: 3px;
+}
+.line-6{
+width: 10px;
+height: 2px;
+background-color: lightseagreen;
+border-radius: 2px;
+margin-left: 3px;
+}
+.line-7{
+width: 15px;
+height: 2px;
+background-color: lightseagreen;
+border-radius: 2px;
+margin-left: 3px;
+}
+
+.part-1 h2, p, a {
+    margin-left: 15px;
+}
+.part-1 h2{
+    color: rgb(186, 238, 238);   
+}
+.part-2 h2{
+    color: rgb(186, 238, 238);   
+}
+.part-3 h2{
+    color: rgb(186, 238, 238);   
+}
+.part- h2{
+    color: rgb(186, 238, 238);   
+}
+.part-1 p{
+    color: rgb(194, 228, 228);
+    opacity: 90%; 
+    text-align: left; 
+    font-size: 15px;
+}
+.part-2 p{
+    color: rgb(194, 228, 228);
+    opacity: 90%;
+    text-align: left; 
+    font-size: 15px;  
+}
+.part-3 p{
+    color: rgb(194, 228, 228);
+    opacity: 90%; 
+    text-align: left;  
+    font-size: 15px;
+}
+.part-4 p{
+    color: rgb(194, 228, 228);
+    opacity: 90%;  
+    text-align: left;
+    font-size: 15px; 
+}
+.part-1 a{
+    font-size: 18px;
+    color: rgb(194, 228, 228);
+}
+.part-2 a{
+    font-size: 18px;
+    color: rgb(194, 228, 228);
+}
+.part-3 a{
+    font-size: 18px;
+    color: rgb(194, 228, 228);
+}
+.part-4 a{
+    font-size: 18px;
+    color: rgb(194, 228, 228);
+}
+.part-2 h2, p, a {
+    margin-left: 15px;
+}
+.part-3 h2, p, a {
+    margin-left: 15px;
+}
+.part-4 h2, p, a {
+    margin-left: 15px;
+}
+.part-2{
+    background-color: rgb(36, 70, 70);
+  
+   
+}
+.part-3{
+    background-color: rgb(60, 109, 109);  
+  
+}
+.part-4{
+    background-color: rgb(16, 112, 112);  
+ 
+}
+
+.service{
+    background: url(../../image/org333.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    margin-top: 70px;
+   
+    margin-bottom: 100px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.service-detail{
+width: 550px;
+}
+.service-detail h1{
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.service-detail p{
+    margin-left: 150px;
+    
+}
+.service-img img{
+width: 500px;
+height: 400px;
+margin-top: 60px;
+margin-left: 100px;
+border-radius: 5px;
+}
+.blog h1{
+    text-align: center;
+    font-size: 32px;
+   
+}
+
+.blog-total{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 80px;
+    width: 1200px;
+    margin-left: 120px;
+    
+}
+.blog-1{
+    width: 300px;
+}
+.blog-2{
+    width: 300px;
+    margin-bottom: 50px;
+}
+.blog-3{
+    width: 300px;
+}
+.blog-1 h2{
+    text-align: center;
+}
+.blog-2 h2{
+    text-align: center;
+}
+.blog-3 h2{
+    text-align: center;
+}
+.blog-1 p{
+    text-align: center;
+}
+.blog-2 p{
+    text-align: center;
+}
+.blog-3 p{
+    text-align: center;
+}
+.blog-1 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 4px;
+}
+.blog-2 img{
+    width: 300px;
+    height: 300px;
+    margin-top: 48px;
+    border-radius: 4px;
+}
+.blog-3 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 4px;
+}
+
+
+
+.programm{
+    text-align: center;
+    margin-top: 80px;
+    height: 400px;
+}
+.programm p{
+    text-align: center;
+    opacity: 70%;
+}
+.programm-total{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 45px;
+}
+.icon-use{
+    background-color: rgb(38, 201, 201);
+    color: rgb(247, 160, 203);
+    
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 50%;
+   
+
+}
+.programm-1{
+    margin-left: 50px;
+    width: 330px;
+}
+.programm-2{
+    width: 330px;  
+    margin-left: 15px;
+}
+.programm-3{
+    margin-right: 40px;
+    width: 330px;
+    
+}
+.programm-1 p{
+    color: rgb(54, 44, 44);
+    opacity: 90%;
+}
+.programm-1 p{
+    color: rgb(54, 44, 44);
+    opacity: 90%;
+}
+.programm-2 p{
+    color: rgb(54, 44, 44);
+    opacity: 90%;
+}
+.programm-3 p{
+    color: rgb(54, 44, 44);
+    opacity: 90%;
+}
+.about-detail{
+    display: grid;
+grid-template-columns: repeat(2, 1fr);
+width: 900px;
+position: relative;
+
+}
+
+
+.about h1, p{
+    text-align: center;
+
+}
+.about p{
+    margin-bottom: 100px;
+    opacity: 70%;
+}
+.about-1{
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 230px;
+    margin-right: 80px;
+    width: 450px;
+    margin-left: 165px;
+    margin-bottom: 100px;
+   
+}
+
+
+.about-img img{
+    width: 280px;
+    height: 291px;
+    margin-top: -60px;
+    margin-left: 20px;
+    
+}
+.about-2{
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 230px;
+    width: 450px;
+    
+}
+.about-header p, h4{
+margin-right: 50px;
+}
+.about-header p{
+    width: 120px;
+    margin-top: 25px;
+}
+.about-title p{
+    width: 120px;
+    margin-top: 25px;
+}
+.about-header small{
+ font-size: 17px;
+ font-weight: bold;
+ color: lightseagreen;
+}
+.about-title small{
+ font-size: 17px;
+ font-weight: bold;
+ color: lightseagreen;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: 250px;
+    background-color: darkslategray;
+    color: rgb(190, 201, 211);
+    
+   
+}
+.footer-1{
+    width: 350px;
+  
+}
+.footer-1 p{
+    margin-right: 100px;
+}
+.footer-2 p{
+    margin-right: 95px;
+}
+.footer-3 p{
+    margin-right: 85px;
+}
+.footer-4 p{
+    margin-right: 105px;
+}
+.footer-2{
+    width: 350px;
+    
+}
+.footer-3{
+    width: 350px;
+    
+}
+.footer-4{
+    width: 350px;
+    
+}
+.footer-1 h3{
+    margin-left: 90px;
+    font-weight: 500;
+}
+.footer-2 h3{
+    margin-left: 90px;
+    font-weight: 500;
+}
+.footer-3 h3{
+    margin-left: 90px;
+    font-weight: 500;
+}
+.footer-4 h3{
+    margin-left: 90px;
+    font-weight: 500;
+}
+.flow{
+    width: 100px;
+    height: 2px;
+    background-color: darkturquoise;
+    margin-left: 90px;
+}

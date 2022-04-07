@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "title": "Dr.Alius Hodou",
+        "detail":"Your smile says a lot about the way you feel – inside and out. Our team can care for everyone",
+        "img":"https://t4.ftcdn.net/jpg/03/17/85/49/360_F_317854905_2idSdvi2ds3yejmk8mhvxYr1OpdVTrSM.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Dr.Sepla Devis",
+        "detail":"Your smile says a lot about the way you feel – inside and out. Our team can care for everyone",
+        "img": "../src/image/group-20_2x-removebg-preview.png"
+    }
+    
+]
