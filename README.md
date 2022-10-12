@@ -1,5 +1,5 @@
 React Medical Website
-Live link : https://astounding-mochi-9757cc.netlify.app/
+Live link : https://cute-marigold-5f4ea6.netlify.app
 Code Link : https://github.com/firoj7github/React-medical-web
 
 
